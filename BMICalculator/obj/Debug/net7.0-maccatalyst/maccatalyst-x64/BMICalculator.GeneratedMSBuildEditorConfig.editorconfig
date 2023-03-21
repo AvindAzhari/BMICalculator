@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BMICalculator
+build_property.ProjectDir = C:\Users\avinf\source\repos\BMICalculator\BMICalculator\
+
+[C:/Users/avinf/source/repos/BMICalculator/BMICalculator/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BMICalculator.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/avinf/source/repos/BMICalculator/BMICalculator/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BMICalculator.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/avinf/source/repos/BMICalculator/BMICalculator/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BMICalculator.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/avinf/source/repos/BMICalculator/BMICalculator/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BMICalculator.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/avinf/source/repos/BMICalculator/BMICalculator/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BMICalculator.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/avinf/source/repos/BMICalculator/BMICalculator/Views/BMICalculatorPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BMICalculator.Views.BMICalculatorPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\BMICalculatorPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\BMICalculatorPage.xaml
+
+[C:/Users/avinf/source/repos/BMICalculator/BMICalculator/Views/EmployeePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BMICalculator.Views.EmployeePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EmployeePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EmployeePage.xaml

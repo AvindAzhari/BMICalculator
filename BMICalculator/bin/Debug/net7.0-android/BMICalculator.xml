@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BMICalculator</name>
+    </assembly>
+    <members>
+        <member name="P:BMICalculator.ViewModels.BMICalculatorPageViewModel.Height">
+            <inheritdoc cref="F:BMICalculator.ViewModels.BMICalculatorPageViewModel._height"/>
+        </member>
+        <member name="P:BMICalculator.ViewModels.BMICalculatorPageViewModel.Weight">
+            <inheritdoc cref="F:BMICalculator.ViewModels.BMICalculatorPageViewModel._weight"/>
+        </member>
+        <member name="P:BMICalculator.ViewModels.EmployeePageViewModel.EmpName">
+            <inheritdoc cref="F:BMICalculator.ViewModels.EmployeePageViewModel._empName"/>
+        </member>
+        <member name="F:BMICalculator.ViewModels.EmployeePageViewModel._saveCommand">
+            <summary>The backing field for <see cref="P:BMICalculator.ViewModels.EmployeePageViewModel.saveCommand"/>.</summary>
+        </member>
+        <member name="P:BMICalculator.ViewModels.EmployeePageViewModel.saveCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:BMICalculator.ViewModels.EmployeePageViewModel.save"/>.</summary>
+        </member>
+    </members>
+</doc>
